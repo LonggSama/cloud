@@ -1,5 +1,5 @@
 {
-	"description": "The CodeIgniter framework",
+	/*"description": "The CodeIgniter framework",
 	"name": "codeigniter/framework",
 	"type": "project",
 	"homepage": "https://codeigniter.com",
@@ -18,5 +18,5 @@
 	},
 	"require-dev": {
 		"mikey179/vfsStream": "1.1.*"
-	}
+	}*/
 }
